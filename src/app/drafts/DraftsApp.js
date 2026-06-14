@@ -41,7 +41,7 @@ export default function DraftsApp() {
             My Drafts
           </h1>
           <p className="mt-2 max-w-xl text-sm text-muted">
-            Designs you've saved are stored in this browser. Continue
+            Designs you&apos;ve saved are stored in this browser. Continue
             editing or send a draft straight to checkout.
           </p>
         </div>
